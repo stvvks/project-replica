@@ -1,2 +1,2 @@
 # project-replica
-# Added Main file for vpc creation
+# Simple TF Script to bring up a VPC for testing
